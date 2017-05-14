@@ -1,4 +1,3 @@
-package com.mattf.nogui;
 
 import java.util.Scanner;
 
@@ -9,7 +8,7 @@ import java.util.Scanner;
  * CHECKS FOR ALL ERRORS, USES WHILE LOOP AND BOOLEAN FLAG TO LOOP UNTIL IT THE CONDITIONS ARE MET
  * +winCheck() : not working yet at all
  */
-public class notMain {
+public class Testo {
 	public static char tttbrd[][] = new char[3][3];
 	public static Scanner sc = new Scanner(System.in);
 	public static int i = 1;

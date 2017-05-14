@@ -7,6 +7,8 @@ import java.util.Scanner;
  * +crdPCK() : allows the players to pick coordinates {
  * CHECKS FOR ALL ERRORS, USES WHILE LOOP AND BOOLEAN FLAG TO LOOP UNTIL IT THE CONDITIONS ARE MET
  * +winCheck() : not working yet at all
+ * *fixed winCheck by adding brackets around the && statements
+ * *fixed tieCheck by changing it to a counter
  */
 public class Testo {
 	public static char tttbrd[][] = new char[3][3];
